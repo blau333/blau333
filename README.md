@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Технологии
+### Techs
 
 <p align="left">
   <!-- Языки и backend -->
@@ -28,25 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" alt="Vim"/>
 </p>
 
----
 
-### CEO of Kemel-social
-
+<h1 align="center">CEO of Kemel-social</h1>
 
 
----
 
-### 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blau3&show_icons=true&theme=github_dark" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blau3&layout=compact&theme=github_dark" alt="Top Langs" height="160"/>
-</p>
-
----
-
-### 📫 Как связаться
-
-- Telegram: [@your_handle](https://t.me/your_handle)  
-- Email: your.email@example.com  
-- Дополнительно: сайт/резюме/блог, если есть
