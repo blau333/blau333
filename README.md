@@ -30,8 +30,6 @@
 </p>
 
 
-<h1 align="center">CEO of Kemel-social</h1>
-
 
 
 
