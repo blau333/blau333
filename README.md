@@ -1,35 +1,59 @@
-<!-- Приветствие с анимированным текстом -->
-<h1 align="center">Hey my name is blau3 👋</h1>
+<!-- Профиль-README в стиле neofetch. Файл должен лежать в репозитории <username>/<username> -->
+<a href="https://github.com/YOUR_USERNAME">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="YOUR_NAME's GitHub README" src="dark_mode.svg">
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Python+%26+Backend+Developer;Linux+enthusiast;Im+creating+new+social+media">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Python+%26+Backend+Developer;Linux+enthusiast;I+love+windows" alt="Typing SVG">
-          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Python+%26+Backend+Developer;Linux+enthusiast;CEO+of+tap+Social" alt="Typing SVG">
-  </a>
-</p>
+<details>
+<summary>blau333</summary>
 
----
-
-
----
-
-### Techs
-
-<p align="left">
-  <!-- Языки и backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-
-  <!-- DevOps / инструменты -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
-My main project is tap
+```text
+             ..
 
 
 
 
 
+
+
+   .                                                   username@hostname --------------------------------------
+  .'..    ..':.'.'  ..  ...                            . OS: ........................... Windows 11, Ubuntu 24.04
+  .'   .,:-~x+-;;,''`:'.....                           . Uptime: .................... XX years, X months, XX days
+  .   `#xx@o%%@%+=;:::``'''..                          . Host: ........................ Your Company / University
+     `@@@@@*o@@@**x=,,,,,:`'..                         . Kernel: ................................. Your Job Title
+    .@@@@@@@@@@@%#%#xxo*+=-:`'..                       . IDE: ............................. VSCode, IntelliJ IDEA
+    -@@@@@@@@@%@@@@@@@@#xo=~,:'''.
+    x@@@@@@@@@@@@@@@@@@#xo+~-;:`''.                    . Languages.Programming: ........ Python, Java, JavaScript
+   ,@@@@@@@@@@@@@@@@@%xo+~;,:'.                        . Languages.Computer: .............. HTML, CSS, JSON, YAML
+   -~;:,,:,=#@@@@@@@x-`'.                 .            . Languages.Real: ....................... Russian, English
+            ,#@@@@o~:.
+  '*#@@@@@o*%@@@@@='         '::`''`'.      ...        . Hobbies.Software: .............. Open Source, Automation
+  :@@@%o~`'':#@@@o:.        .:,'       ..   ....       . Hobbies.Hardware: .................. Your Hardware Hobby
+  :@%,.:`    ~@@%:           ..            ...'''.
+  =@@#o#@*-=%@@@~.            '.           .....''     - Contact -----------------------------------------------
+  %@@@@@@@@@@@@*'   ..        .`::`````''.......''.    . Email.Personal: ........................ you@example.com
+ .@@@@@@@@@@@@x,    ...      .';~~~~-,:`'.......''     . Email.Work: ............................ you@company.com
+ '@@@@@@@@@@@#=,'      .. .....`;-~-;:`''......''.     . LinkedIn: ................................ your-linkedin
+ .@@@@@@@@@@@x~:'.        ......':,,:''........'..     . Discord: .................................. your_discord
+  #@@@@@@@@@@=,`'''''..   ........'''''..''''..'.
+  -@@@@@@%=*x,'.    .``'   ......''''''''''''....      - GitHub Stats ------------------------------------------
+  .@@@@@@@x+##=:.     .    ..''''''''''''''.....       . Repos: .............................. 0 {Contributed: 0}
+   +@@@@@@@@@@xx@+       ....'`''''''''''... ...       . Stars: ............................................... 0
+   :@@@@@@@@@%;*@@'     .'''''`:`'''''..........       . Commits: ............................................. 0
+    #@@@@@@@@@%#o+:'.    .''''''''''''.........        . Followers: ........................................... 0
+    ,@@@@@oo%%o;`'''..'...'''''..'''''........         . Lines of Code on GitHub: ................ 0 ( 0++, 0-- )
+     %@@@=---~;`'.        .`,`'''''''.....'..
+     ;@@@%@@%#=#%*=:'      ',:`''''''..'''...
+      +@@@@%#+~*x*;`......''''''''''''''..
+       *@@@#=,`:`'`````''''''''''''''''...
+       .x@@@#ooo*~=+=-,`'`'''.....''.'..
+      . .x@@@@@@@o+~-;:`''..............
+          x@@@@@#+~,``'...................       .
+           ~%@@%*=;:`'..................       ....
+             :==-,:``'.................     ........
+```
+
+</details>
