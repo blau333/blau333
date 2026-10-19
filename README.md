@@ -68,17 +68,6 @@ class Boris:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2&section=header" width="100%" alt="">
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/blau333/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blau333&repo=project-one&theme=tokyonight&hide_border=true" alt="project-one"/>
-  </a>
-  <a href="https://github.com/blau333/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blau333&repo=project-two&theme=tokyonight&hide_border=true" alt="project-two"/>
-  </a>
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
