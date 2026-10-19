@@ -68,15 +68,6 @@ class Boris:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2&section=header" width="100%" alt="">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blau333/blau333/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blau333/blau333/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/blau333/blau333/output/github-snake.svg">
-  </picture>
-</div>
 
 ## 🤝 Let's Connect
 
