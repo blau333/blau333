@@ -89,12 +89,6 @@ class Boris:
   </picture>
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blau333&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
