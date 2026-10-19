@@ -8,8 +8,8 @@
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=username&style=for-the-badge&color=00d1b2&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/username?style=for-the-badge&color=6c63ff&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=blau333style=for-the-badge&color=00d1b2&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/blau333?style=for-the-badge&color=6c63ff&logo=github)
 ![Status](https://img.shields.io/badge/status-open_to_work-brightgreen?style=for-the-badge)
 
 </div>
