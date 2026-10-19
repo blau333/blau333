@@ -60,15 +60,6 @@ class Boris:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blau333&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak"/>
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blau333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2&section=header" width="100%" alt="">
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
