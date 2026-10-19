@@ -7,8 +7,6 @@
 </a>
 
 <br>
-
-![Profile views](https://komarev.com/ghpvc/?username=blau333style=for-the-badge&color=00d1b2&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/blau333?style=for-the-badge&color=6c63ff&logo=github)
 ![Status](https://img.shields.io/badge/status-open_to_work-brightgreen?style=for-the-badge)
 
@@ -36,7 +34,7 @@ Fullstack dev (Python, JavaScript, Rast)
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,rabbitmq,docker,gitlab,linux,nginx,git&perline=10" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,javascript,docker,gitlab,linux,git&perline=10" alt="Tech stack icons"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2&section=header" width="100%" alt="">
