@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Boris&fontSize=80&fontColor=00d1b2&animation=fadeIn&fontAlignY=36&desc=Python%20%C2%B7%20JavaScript%20%C2%B7%20Rust&descAlignY=58&descSize=22&descColor=ffffff" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=blau333&fontSize=80&fontColor=00d1b2&animation=fadeIn&fontAlignY=36&desc=Python%20%C2%B7%20JavaScript%20%C2%B7%20Rust&descAlignY=58&descSize=22&descColor=ffffff" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D1B2&center=true&vCenter=true&width=700&height=50&lines=Building+reliable+backend+systems+%E2%9A%99%EF%B8%8F;Python+%2B+JavaScript+%2B+Rust+%F0%9F%A6%80;Turning+coffee+into+REST+APIs+%E2%98%95;Open+to+remote+roles+%F0%9F%8C%8D" alt="Typing animation"/>
