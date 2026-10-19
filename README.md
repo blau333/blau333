@@ -22,20 +22,14 @@
 
 ```python
 class Boris:
-    role = "Backend Developer"
-    language = "Python"
-    framework = "Django / DRF"
+    role = "Fullstack Developer"
+    languages = "Python, JavaScript, Rast"
+    framework = "Django / DRF / Laravel / "
     infra = ["Docker", "GitLab CI", "Linux"]
     queues = ["Celery", "RabbitMQ", "Redis"]
-    database = "PostgreSQL"
-    looking_for = "Remote mid-level backend role"
-
-    def say_hi(self):
-        return "Let's build something solid 🚀"
+    database = "PostgreSQL, MariaDB"
 ```
 Fullstack dev (Python, JavaScript, Rast)
-- 🌍 **Open to remote mid-level roles** at international companies
-- 📫 [Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/username) · [Telegram](https://t.me/username)
 
 <br clear="right"/>
 
@@ -97,12 +91,6 @@ Or use auto-updating pin cards:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/username/output/github-snake.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/username/username/output/github-snake.svg">
   </picture>
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blau333&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </div>
 
 
