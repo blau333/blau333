@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Boris&fontSize=80&fontColor=00d1b2&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Python%20%26%20Django&descAlignY=58&descSize=22&descColor=ffffff" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=blau333&fontSize=80&fontColor=00d1b2&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Python%20%26%20Django&descAlignY=58&descSize=22&descColor=ffffff" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D1B2&center=true&vCenter=true&width=700&height=50&lines=Building+reliable+backend+systems+%E2%9A%99%EF%B8%8F;Django+%2B+Celery+%2B+PostgreSQL+%F0%9F%90%8D;Turning+coffee+into+REST+APIs+%E2%98%95;Open+to+remote+roles+%F0%9F%8C%8D" alt="Typing animation"/>
@@ -33,8 +33,7 @@ class Boris:
     def say_hi(self):
         return "Let's build something solid 🚀"
 ```
-
-- 🐍 I build APIs, background jobs and data-heavy services
+Fullstack dev (Python, JavaScript, Rast)
 - 🌍 **Open to remote mid-level roles** at international companies
 - 📫 [Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/username) · [Telegram](https://t.me/username)
 
@@ -52,17 +51,17 @@ class Boris:
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blau333&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blau333&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak"/>
 </div>
 
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=blau333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,24&height=2&section=header" width="100%" alt="">
@@ -75,7 +74,7 @@ class Boris:
       <a href="https://github.com/username/project-one">
         <img src="assets/project-one.png" alt="project-one" width="100%">
       </a>
-      <h3>project-one</h3>
+      <h3>project1</h3>
       <p>One line: what it does and why it matters.</p>
       <img src="https://skillicons.dev/icons?i=python,django,postgres,docker" alt="stack">
     </td>
@@ -83,7 +82,7 @@ class Boris:
       <a href="https://github.com/username/project-two">
         <img src="assets/project-two.png" alt="project-two" width="100%">
       </a>
-      <h3>project-two</h3>
+      <h3>project2</h3>
       <p>One line: what it does and why it matters.</p>
       <img src="https://skillicons.dev/icons?i=python,redis,rabbitmq,docker" alt="stack">
     </td>
@@ -91,17 +90,6 @@ class Boris:
 </table>
 
 Or use auto-updating pin cards:
-
-<div align="center">
-  <a href="https://github.com/username/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project-one&theme=tokyonight&hide_border=true" alt="project-one"/>
-  </a>
-  <a href="https://github.com/username/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project-two&theme=tokyonight&hide_border=true" alt="project-two"/>
-  </a>
-</div>
-
-## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -114,22 +102,17 @@ Or use auto-updating pin cards:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blau333&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </div>
 
-## 💬 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
-</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b1au3)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](borisgambo1626@gmail.com)
 
 </div>
 
